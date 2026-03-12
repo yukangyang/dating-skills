@@ -1,0 +1,20 @@
+{
+  "name": "dating-skills",
+  "version": "2.0.5",
+  "description": "恋爱专家，擅长提供追女生/恋爱技巧指导、话术建议、问题诊断和知识解答。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yukangyang/dating-skills.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yukangyang/dating-skills/issues"
+  },
+  "homepage": "https://github.com/yukangyang/dating-skills#readme"
+}

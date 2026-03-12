@@ -1,11 +1,14 @@
-# love-expert
+# dating-skills
+
+[![npm version](https://img.shields.io/npm/v/dating-skills.svg)](https://www.npmjs.com/package/dating-skills)
+[![license](https://img.shields.io/npm/l/dating-skills.svg)](https://github.com/yukangyang/dating-skills/blob/main/LICENSE)
 
 恋爱专家，擅长提供追女生/恋爱技巧指导、话术建议、问题诊断和知识解答。
 
 ## 安装
 
 ```bash
-npx skills add Stanley-baby/love-expert
+npx skills add yukangyang/dating-skills
 ```
 
 # 恋爱专家 Skill
